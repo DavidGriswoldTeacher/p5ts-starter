@@ -1,0 +1,16 @@
+{
+  "name": "p5ts",
+  "version": "1.0.0",
+  "description": "A simple p5js typescript file",
+  "main": "index.html",
+  "author": "David Griswold",
+  "license": "MIT",
+  "dependencies": {
+    "p5": "^0.8.0",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1"
+  },
+  "devDependencies": {
+    "@types/p5": "^0.7.2"
+  }
+}
