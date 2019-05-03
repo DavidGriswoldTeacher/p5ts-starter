@@ -2,14 +2,14 @@
   "name": "p5ts",
   "version": "1.0.0",
   "description": "A simple p5js typescript file",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc ./src/index.ts"
+  },
   "main": "index.html",
   "author": "David Griswold",
   "license": "MIT",
-  "dependencies": {
-    "p5": "^0.8.0",
-    "webpack": "^4.30.0",
-    "webpack-cli": "^3.3.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/p5": "^0.7.2"
   }
